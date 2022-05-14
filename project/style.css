@@ -1,8 +1,56 @@
-.hatem{
-    width: 500px;
-    height: 500px;
+
+*{
+
+    margin: 0;
+
+    padding: 0;
+
+    box-sizing: border-box;
 
 }
+
+.hatem{
+
+    width: 600px;
+
+    height: 450px;
+
+    margin: auto;
+
+    float: inline-block;
+
+}
+
 .hatem img{
+
     width: 100%;
+
+}
+
+h2{
+
+    text-decoration: line-through;
+
+    text-align: center;
+
+    margin: 2px;
+
+    color: chocolate;
+
+}
+
+.faaai{
+
+width: 33%;
+
+float: left;
+
+padding: 4px;
+
+margin: 1px;
+
+border: 1px solid rgb(62, 66, 62);
+
+border-radius: 3px;
+
 }
